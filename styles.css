@@ -1,9 +1,13 @@
 body {
     text-align: center;
-    background-image: url("/images/background.jpg");
-    background-size: cover;
     font-family: 'Orbitron', sans-serif;
     color: #82a5ca;
+}
+
+.hero {
+    background-image: url("/images/background.jpg");
+    background-size: cover;
+    padding: 10px 0px 40px 0px;
 }
 
 .logo {
